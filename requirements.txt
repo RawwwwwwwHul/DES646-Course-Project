@@ -1,0 +1,14 @@
+numpy
+opencv-python
+mediapipe
+scikit-learn
+customtkinter
+autocorrect
+pillow
+tqdm
+
+# PySimpleGUI was evaluated early on but dropped due to licensing changes; uncomment if needed
+# PySimpleGUI
+
+# tkinter, pickle, threading, and random are part of the Python standard library
+# and do not need to be installed via pip.
